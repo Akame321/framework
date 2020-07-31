@@ -1,0 +1,14 @@
+.direitos {
+    background-color: #282828;
+    height: 20px;
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    position: fixed;
+}
+
+.contain{
+    color: #d2d2d2;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+body {
+        background-image: url(../img/Sem\ Título-2.png);
+        background-attachment: fixed;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        color: whitesmoke ;
+      }
+
+      .tudo{
+        display: flex;
+      
+      }
+
+
+      .geral{
+        margin-left: 3%;
+}
+
+
+      .title {
+        font-family: 'Cormorant Garamond' serif;
+        font-size: 5em;
+        margin-top: 3%;
+        font-weight: 700;
+        margin-bottom: -15px;
+      }
+
+      .Subtitle {
+        font-family: 'Lobster', cursive;;
+        font-size: 30pt;
+        margin-bottom: 150px;
+        font-weight: 400;
+      }
+
+      .texto {
+        text-align: left;
+        font-size: 17px; 
+        font-family: 'Rowdies', cursive;;
+        font-weight: 400;
+        padding-right: 500px;
+      
+      }
+
+      .gif{
+        margin-right: 40px;
+      }
